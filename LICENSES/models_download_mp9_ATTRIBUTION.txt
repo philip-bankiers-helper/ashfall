@@ -1,0 +1,5 @@
+MP9 by AvnisT (https://sketchfab.com/AvnisT)
+https://sketchfab.com/3d-models/mp9-5060c84b1d344c9bb9f24c89dd7b9219
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+MP9: authored suppressor extends original barrel to unchanged gameplay muzzle.

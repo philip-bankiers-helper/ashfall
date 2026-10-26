@@ -1,0 +1,6 @@
+The Rocket Launcher of Jinx " FishBones". by Prabhath077 (https://sketchfab.com/Prabhath077)
+https://sketchfab.com/3d-models/the-rocket-launcher-of-jinx-fishbones-bc59b8ebd17147518b80da0cce50cfce
+CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+Changes: uniform gameplay fit; complete source retained with supplied grips and fish-mouth casing. Existing authored carried rocket and front-loading interaction preserved; no source detachable parts invented. Original retained outside package. Lightweight authored fallback preserved.
+Integration: 
+Explicit omissions: none

@@ -1,0 +1,4 @@
+Sword by minghauLoh (https://sketchfab.com/minghau)
+https://sketchfab.com/3d-models/sword-07463a2658e04d6ab8a42b5639a35d63
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.

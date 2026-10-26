@@ -1,0 +1,4 @@
+Sci-Fi Granade by petersoon (https://sketchfab.com/petersoon)
+https://sketchfab.com/3d-models/sci-fi-granade-c2b229ee2f0a4ea39a55f90eb9d90960
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.

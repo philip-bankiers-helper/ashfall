@@ -1,0 +1,6 @@
+Modern Warefare M4A1 by Nneako (https://sketchfab.com/nickolasa.mcintosh)
+https://sketchfab.com/3d-models/modern-warefare-m4a1-167dd49ffff14d41ab11b6417f128bf1
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: User identifies M4 as MK18. Real source magazine/floorplate separated. Burst timing, recoil and physical reload unchanged; display0.6applied once at runtime.
+Explicit omissions: Independent front/rear iron sight components above sourceY.042 at rearZ<-.02/frontZ>.30, plus floating display cartridges23/51. Source receiver rail retained for working transparent red dot. Existing authored charging handle retained; no invented source bolt separation.

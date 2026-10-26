@@ -1,0 +1,8 @@
+M1 GARAND by drcrazzie (https://sketchfab.com/drcrazzie)
+https://sketchfab.com/3d-models/m1-garand-a7113c4d094d4f489b3cdc9a74664710
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: User identifies M1Garand as S85/SA5. Original ring-dot three-depth sight and source bolt/clip used, existing game S85 stats/recoil/reload retained.
+Explicit omissions: Hanging sling1 and detached sling hardware24/25/27/28/29/34/35/36/37/42..47, floating case31 and degenerate display fragments49..52 removed. Exploded clip/cartridge group relocated inside receiver as the reloadable S85 clip; retains game S85 reload rather than claiming Garand-authentic top loading.
+
+088: Original eight-cartridge clip rotated exactly 90 degrees from +X noses to -Z bore; all original textures and triangles retained.

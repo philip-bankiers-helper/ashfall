@@ -1,0 +1,5 @@
+Godot XR Tools Hand Models
+DigitalN8m4r3 aka Miodrag Sejic
+CC0-1.0 Universal, published Austria 7 November2022. See License.md.
+https://github.com/GodotVR/godot-xr-tools/tree/master/addons/godot-xr-tools/hands
+Original mesh and texture payloads retained; ASHFALL pose/anchor adapter is separate. Repository MIT license also retained.

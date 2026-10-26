@@ -1,0 +1,6 @@
+Jolly the Shotgun, Low Poly 3d-Coat texture test by Csaba Baity (tsabszy) (https://sketchfab.com/tsabszy)
+https://sketchfab.com/3d-models/jolly-the-shotgun-low-poly-3d-coat-texture-test-7cbc0a5c8e35414a8388b5a1b3a5d5c9
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: Compact Jolly source fits paired Matadors with original eight rounds per hand and occupied-hand upward flick. No fake detachable magazine. Coachgun was inspected but contains duplicate closed/open display guns; retained unused outside package. Runtime display0.6once.
+Explicit omissions: none

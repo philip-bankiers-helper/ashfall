@@ -1,0 +1,1 @@
+Original procedural SPR scope by Gemini Argon, CC0-1.0. Standalone099 derivative: repaired reversed triangle winding, enlarged ocular aperture and compacted side protrusions. No donor rifle mesh included.

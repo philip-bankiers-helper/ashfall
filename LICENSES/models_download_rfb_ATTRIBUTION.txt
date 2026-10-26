@@ -1,0 +1,4 @@
+RFB RIFLE by Pieter Ferreira (https://sketchfab.com/Badboy17Aiden)
+https://sketchfab.com/3d-models/rfb-rifle-033c5e9169324b5ebb52d9f6c6b31285
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.

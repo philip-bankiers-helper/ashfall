@@ -1,0 +1,9 @@
+ASHFALL 094 catalog images
+
+These transparent PNGs are offline Godot studio renders of the existing ASHFALL
+weapon models and original procedural attachments. They are not runtime cameras.
+Original model authors, licenses and source links remain in assets/models/*/
+ATTRIBUTION.txt and asset-provenance.json, and in the delivery's licenses folder.
+No source model, model texture, hand asset or sound file was modified for 094.
+SPR/reflex housing geometry, materials and Matador secret are original authored
+code additions. Magnum drum uses a crop of the already credited Magnum texture.

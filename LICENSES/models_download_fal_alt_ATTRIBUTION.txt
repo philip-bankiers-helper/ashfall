@@ -1,0 +1,6 @@
+FN FAL by The Unknown... (https://sketchfab.com/1514112)
+https://sketchfab.com/3d-models/fn-fal-7f548d1f79f7418fad852f3d7293ec2c
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: Selectable higher-detail FN FAL alternative to retained SA58 and authored fallback. Moving source knob and magazine, unchanged FAL archetype firing datum, recoil and reload.
+Explicit omissions: none

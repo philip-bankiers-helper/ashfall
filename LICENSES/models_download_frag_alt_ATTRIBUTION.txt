@@ -1,0 +1,4 @@
+Red Grenade Toy Speaker by 3dUVpro (https://sketchfab.com/3dUVpro)
+https://sketchfab.com/3d-models/red-grenade-toy-speaker-2ddf71b8fb6b4fbeb3a144012d2f6b60
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform14cm art fit and seam-aware2.0mm vertex clustering; 277095 source triangles reduced to 34634. Original image bytes retained. Optional frag skin, not speaker interaction; all grenade physics and triggers unchanged. Original retained outside package.

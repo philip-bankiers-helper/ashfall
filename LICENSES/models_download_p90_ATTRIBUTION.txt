@@ -1,0 +1,6 @@
+P90 by Rotuma (https://sketchfab.com/Rotuma)
+https://sketchfab.com/3d-models/p90-82d8b9f1e02b48f9b012698dcfa3352b
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: Replaces visibly broken previous P90. Primary fist behind source trigger, not forward support hole. Source top-magazine body/end caps separated together; existing forward seat/back rack retained. Full pre-user-reduction length0.75m; subsequent084display factor0.6 once.
+Explicit omissions: none

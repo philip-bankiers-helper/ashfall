@@ -1,0 +1,6 @@
+Pistol-Magnum by Mozberg_log (https://sketchfab.com/mozberglog)
+https://sketchfab.com/3d-models/pistol-magnum-9d5df42759444adaa4dfb3ae40155b1f
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: Downloaded frame, barrel, grip and trigger. Functional seven-round swing-out drum, live cartridge states, forward load and up/right close remain; source six-shot capacity is not copied. Zeroed authored sight references retained above cosmetic source sights. No recoil/timing/aim changes.
+Explicit omissions: Six-chamber source drum and detached six-round speedloader omitted; existing functional seven-round drum/individual live cartridges retained and visually fitted inside source frame. Original source retained.

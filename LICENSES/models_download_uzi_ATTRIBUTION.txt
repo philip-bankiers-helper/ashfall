@@ -1,0 +1,6 @@
+UZI by creationwasteland (https://sketchfab.com/creationwasteland)
+https://sketchfab.com/3d-models/uzi-fde60adc8aff4c61b6a8bea1f9e0743f
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: Source Uzi rendered independently in each occupied hand. Source magazine separate but stays seated during existing upward-flick reload; independent ammo/trigger/recoil preserved. Runtime display0.6once.
+Explicit omissions: none

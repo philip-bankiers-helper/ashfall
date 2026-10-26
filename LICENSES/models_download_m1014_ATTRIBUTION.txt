@@ -1,0 +1,6 @@
+M1014 by baiyx (https://sketchfab.com/baiyx)
+https://sketchfab.com/3d-models/m1014-58b0e2de0f684ef3849679e76eba42c5
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: Downloaded M1014 with separate moving bolt/charging assembly. Existing six-shell UP pack then BACK gesture, mirrored hand target, ammunition, cadence and recoil unchanged. Visual bolt reciprocation uses original carrier clock. High-geometry PC option; authored fallback retained.
+Explicit omissions: none

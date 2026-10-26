@@ -1,0 +1,4 @@
+1911 tactical by Vlasov Daniil (dan741vlasov)
+https://sketchfab.com/3d-models/1911-tactical-bf2c7f5687b349b0baf9a6f61e5bd655
+CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/
+Changes: uniform fit to existing gameplay muzzle/grip; disconnected magazine and slide separated for reload/cycling. Original retained; authored lightweight model selectable with --low-poly.

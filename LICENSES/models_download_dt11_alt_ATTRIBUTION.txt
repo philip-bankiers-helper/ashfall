@@ -1,0 +1,6 @@
+Sawed-off (Low Poly) by Berk Gedik (https://sketchfab.com/berkgedik)
+https://sketchfab.com/3d-models/sawed-off-low-poly-05c564f20178457783189dfe8bed6801
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: Selectable sawed-off source style normalized to unchanged DT11 gameplay muzzle/breech datums. Original source fore-end travels with barrels on existing hinge. Existing two-round down/up mechanism and support grip unchanged; no separate sawed-off tuning.
+Explicit omissions: none

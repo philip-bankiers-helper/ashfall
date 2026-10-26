@@ -1,0 +1,8 @@
+Asset: Compact Rectangular/Stadium SPR Scope (spr_scope_pcvr.glb, spr_scope_light.glb)
+Author: Authored procedurally by Gemini Argon for ASHFALL
+License: CC0-1.0 / Public Domain (authored from scratch, no third-party mesh dependencies)
+
+Combined Rifle Assembly (spr_rifle_with_scope_pcvr.glb, spr_rifle_with_scope_light.glb):
+Rifle Base Mesh: 'M4 Rifle' by Charlie Baldwin (https://sketchfab.com/charlieatron)
+Source: https://sketchfab.com/3d-models/m4-rifle-5029ec1a279e4834be88d5c46dae0515
+License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,6 @@
+Ump by AvnisT (https://sketchfab.com/AvnisT)
+https://sketchfab.com/3d-models/ump-ce2b2a42f95c4fa3a9921b9986ceb303
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: Selectable alternate UMP skin, registered to existing Aggressor geometry bounds before its unchanged runtime0.8display scale. Existing authored charging handle, hand targets and ballistics retained.
+Explicit omissions: none

@@ -1,0 +1,58 @@
+extends SceneTree
+var passes := 0
+var failures := 0
+func _initialize() -> void:
+	call_deferred("run")
+func check(ok: bool, label: String) -> void:
+	if ok: passes += 1
+	else: failures += 1
+	print("PASS " if ok else "FAIL ", label)
+func run() -> void:
+	var player = load("res://scripts/player.gd").new()
+	root.add_child(player)
+	player.setup(false)
+	player.set_physics_process(false)
+	var menu = load("res://scripts/menu.gd").new()
+	root.add_child(menu)
+	menu.setup(player)
+	menu.set_process(false)
+	check(menu.AUDIO_BUSES.all(func(bus): return AudioServer.get_bus_index(bus) >= 0), "menu creates missing audio buses")
+	var voice_index := AudioServer.get_bus_index("Voice")
+	var effect := AudioEffectHighPassFilter.new()
+	AudioServer.add_bus_effect(voice_index, effect)
+	var effects_before := AudioServer.get_bus_effect_count(voice_index)
+	menu.set_audio_volume("Voice", 0.0)
+	check(AudioServer.is_bus_mute(voice_index), "zero slider level mutes voice bus")
+	menu.set_audio_volume("Voice", 0.5)
+	check(not AudioServer.is_bus_mute(voice_index) and is_equal_approx(AudioServer.get_bus_volume_db(voice_index), linear_to_db(0.5)), "positive volume unmutes and sets expected logarithmic gain")
+	check(AudioServer.get_bus_effect_count(voice_index) == effects_before and AudioServer.get_bus_effect(voice_index, effects_before-1) == effect, "volume change preserves existing voice effect")
+	menu.set_audio_volume("Music", 9)
+	menu.set_audio_volume("SFX", -9)
+	check(menu.audio_volumes.Music == 1.0 and menu.audio_volumes.SFX == 0.0, "audio values clamp to zero through one")
+	var settings: Dictionary = menu.get_settings()
+	menu.set_audio_volume("Voice", 1.0)
+	menu.apply_settings(settings)
+	check(menu.audio_volumes.Voice == 0.5 and menu.audio_volumes.SFX == 0.0, "audio levels round trip through settings")
+	menu.apply_settings({"audio_volumes":{"Voice":{},"Music":null,"SFX":"bad"}})
+	check(menu.audio_volumes.Voice == 0.5 and menu.audio_volumes.Music == 1.0 and menu.audio_volumes.SFX == 0.0, "malformed saved audio fields leave valid levels intact")
+	menu.set_audio_volume("Voice", NAN)
+	check(menu.audio_volumes.Voice == 0.5, "nonfinite direct audio values are ignored")
+	menu._choose(4)
+	check(menu.audio_page and menu._sliders.slice(0,4).all(func(slider): return slider.visible) and menu._sliders.slice(4).all(func(slider): return not slider.visible), "audio page exposes native desktop sliders")
+	menu._choose(4)
+	check(not menu.audio_page, "audio back returns to field menu")
+	menu._choose(5)
+	menu._choose(1)
+	check(menu.graphics_quality == "balanced", "graphics menu toggles to balanced")
+	settings = menu.get_settings()
+	menu._choose(1)
+	menu.apply_settings(settings)
+	check(menu.graphics_quality == "balanced", "graphics quality survives settings round trip")
+	for invalid in [{}, [], null, "bad", NAN, INF]:
+		menu.apply_settings({"snap_degrees": invalid})
+		check(player.snap_degrees == 30, "malformed snap setting defaults safely type %d" % typeof(invalid))
+	menu.free()
+	player.free()
+	print("AUDIO_SETTINGS_RESULT passes=", passes, " failures=", failures)
+	quit(0 if failures == 0 else 1)
+

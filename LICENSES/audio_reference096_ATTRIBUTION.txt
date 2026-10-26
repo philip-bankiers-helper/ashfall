@@ -1,0 +1,1 @@
+PUBLIC RELEASE AUDIO: original procedural cues by the ASHFALL project, Apache-2.0. These replace private reference recordings. No Population: ONE audio is included. Legacy filenames and timing contracts are retained for compatibility.

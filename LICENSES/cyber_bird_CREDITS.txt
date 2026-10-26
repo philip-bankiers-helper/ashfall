@@ -1,0 +1,14 @@
+CYBER BIRD — original city map for standalone ASHFALL
+
+Original architecture, procedural city layout, avian sculptures, feather signs,
+district identities, weathered material shader and map integration authored for
+this project by Codex, October 2026. No downloaded city, bird or texture packs.
+The new city materials use analytic shader detail and shared primitive geometry.
+
+Inherited ASHFALL code, weapons, audio, hands and other assets retain their
+existing provenance and license files. The delivery's licenses/ directory is
+copied without modification from the verified standalone9-9-2 checkpoint.
+Gemini's inherited models are used as already integrated in that checkpoint;
+neither the original models nor any external original asset folders were edited.
+
+Godot Engine: MIT license, see GODOT-LICENSE.txt in the candidate.

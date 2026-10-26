@@ -1,0 +1,21 @@
+Original ASHFALL code and original project-authored assets: Copyright 2026 Al Ingold,
+licensed under the Apache License, Version 2.0. See LICENSE.
+
+Apache-2.0 does not replace the licenses of separable third-party content.
+Most downloaded weapon models are CC-BY-4.0; the Fishbones/Jinx rocket-launcher
+model is CC-BY-NC-4.0 (noncommercial). Keep its attribution and noncommercial
+condition when redistributing that asset or a package containing it.
+Other materials/models include CC0, and XR Tools hand assets retain MIT notices.
+See LICENSES/ and the source asset provenance records for creators, source URLs,
+license links and modification notes. No endorsement by those creators is implied.
+
+Public audio replacements are new procedural sounds, Apache-2.0. They do not
+contain the private Population: ONE recordings used during development. Original
+timing and sound-route names are retained for compatibility; this is not a claim
+of ownership over any other game's recordings. No private playtest recordings,
+saves, credentials, user profiles or historical development Git history are shipped.
+
+Godot Engine retains its MIT license. Valve OpenVR headers retain Valve's BSD-style
+license. Neither Skyrim VR nor SKSEVR is included or relicensed. They are external
+requirements only for the Skyrim integration. ASHFALL is an independent experimental
+project, not an official release of Population: ONE, Bethesda, Valve or Riot Games.

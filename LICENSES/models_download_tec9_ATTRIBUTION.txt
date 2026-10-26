@@ -1,0 +1,4 @@
+Tec-9 by neyr (https://sketchfab.com/neyr)
+https://sketchfab.com/3d-models/tec-9-4150563248d94261acc3217c5158193b
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.

@@ -1,0 +1,4 @@
+AVA's SA58 Para ( FN Fal ) by alx_flameniro (https://sketchfab.com/alx_flameniro)
+https://sketchfab.com/3d-models/avas-sa58-para-fn-fal-4d195b887353491a99e3749e6a9def42
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.

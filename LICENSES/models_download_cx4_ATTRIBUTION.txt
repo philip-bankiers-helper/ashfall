@@ -1,0 +1,4 @@
+Mx4 SMG by TORI106 (https://sketchfab.com/TORI106)
+https://sketchfab.com/3d-models/mx4-smg-b64aeb0128514250812cc694fef34063
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.

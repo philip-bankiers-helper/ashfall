@@ -1,0 +1,4 @@
+Cyber Katana In Cyberpunk Style by Azgar_ (https://sketchfab.com/azgarion)
+https://sketchfab.com/3d-models/cyber-katana-in-cyberpunk-style-92935692e1444fa6a3410d8287b084b6
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.

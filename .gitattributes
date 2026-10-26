@@ -1,0 +1,2 @@
+# Preserve original source bytes used by content fingerprints across Windows clones.
+* -text

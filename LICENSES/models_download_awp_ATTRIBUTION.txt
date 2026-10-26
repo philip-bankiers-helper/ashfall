@@ -1,0 +1,6 @@
+AWP | AWM by AvnisT (https://sketchfab.com/AvnisT)
+https://sketchfab.com/3d-models/awp-awm-df073bbe7af947379d6869dad71b6ed3
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: 085 supplied AWP scope restored; functional zoom/compositor/damping/reload unchanged.
+Explicit omissions: None:085restores the complete supplied scope, replacing authored housing only.

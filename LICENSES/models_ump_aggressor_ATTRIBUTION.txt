@@ -1,0 +1,6 @@
+UMP-45 | AGGRESSOR by REEESkins
+https://sketchfab.com/REEESkins
+Source: https://sketchfab.com/3d-models/ump-45-aggressor-b82ae28c7d8143c5890d51bb1ef7aedb
+License: Creative Commons Attribution 4.0 (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+Changes: magazine separated as independently movable mesh, uniform coordinate fit, functional reload bolt added in game.

@@ -1,0 +1,5 @@
+MP5 - COD:MW2019 (PBR) by Wicked_Vixx (https://sketchfab.com/tylukex)
+https://sketchfab.com/3d-models/mp5-codmw2019-pbr-8d32423f6a0f4d1d99ecb0744f40e22f
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+082: normal-map UV1 selection remapped to UV0 after verifying both source arrays byte-equivalent for all five primitives. Geometry, image binary and mapping unchanged; removes unsupported redundant importer selection.

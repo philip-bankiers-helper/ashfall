@@ -1,0 +1,4 @@
+Ak47 by wburton (https://sketchfab.com/wburton95)
+https://sketchfab.com/3d-models/ak47-831519a097d84e079fd8bc4b15e5b57d
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.

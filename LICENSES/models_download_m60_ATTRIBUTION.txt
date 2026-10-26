@@ -1,0 +1,8 @@
+M60 | Free game-ready by Matej Ondra (https://sketchfab.com/mianted)
+https://sketchfab.com/3d-models/m60-free-game-ready-3bd29c932abf42078d0f757d9553cadf
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: 
+Explicit omissions: Static projectileE cartridge replaced by coherent donor linked belt; no ghost round in an empty receiver.
+
+088: Bipod omitted; complete cover/charging handle and accepted 1.39879070856m length preserved. Box/belt fit in reload-fit.json.

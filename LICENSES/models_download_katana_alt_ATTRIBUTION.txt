@@ -1,0 +1,8 @@
+Katana by aneeqayounas (https://sketchfab.com/aneeqayounas)
+https://sketchfab.com/3d-models/katana-b061754e94ce434cbe1396b3bb6d8abc
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: Selectable traditional katana alternative to retained Genji and authored fallback. Same calibrated length, primary/support grips, accepted contact semantics and velocity damage.
+Explicit omissions: Display stands, lower scabbard and fittings omitted by inspected connected component minimumY<=.15. Upper unsheathed katana retained. Original2410 triangles retained outside package.
+
+086: rigidly align the original connected guard component perpendicular to the handle. Blade/handle vertices, source UVs, endpoints and natural blade curvature retained.

@@ -1,0 +1,4 @@
+Beretta Px4 Storm Sub-Compact | Free Lowpoly by Vlasov Daniil (https://sketchfab.com/dan741vlasov)
+https://sketchfab.com/3d-models/beretta-px4-storm-sub-compact-free-lowpoly-55958f5ee3674f5fbb1a5cb93ca84e44
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.

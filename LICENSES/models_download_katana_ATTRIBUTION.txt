@@ -1,0 +1,4 @@
+Genji's Katana V2 by TheDwarf (https://sketchfab.com/TheDwarf)
+https://sketchfab.com/3d-models/genjis-katana-v2-ed11897d917f48f7bfed7c3e2fa051e0
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.

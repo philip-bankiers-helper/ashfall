@@ -1,0 +1,1190 @@
+{
+  "license": "Apache-2.0",
+  "description": "All listed WAVs are newly synthesized; no source recording samples used.",
+  "files": [
+    {
+      "path": "assets/audio/mara_01.wav",
+      "rate": 22050,
+      "frames": 246025,
+      "channels": 1,
+      "sha256": "64abbcb7f0220fb379e697a38d584fe597595cb42a252e960a582ef4b582354f",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/mara_02.wav",
+      "rate": 22050,
+      "frames": 270727,
+      "channels": 1,
+      "sha256": "5d9c254c5b052c664a86d3f5b9d6fdbf3eca3767146099fdbf096b3c432cff34",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/mara_03.wav",
+      "rate": 22050,
+      "frames": 264111,
+      "channels": 1,
+      "sha256": "f7d23bba08bdacb9fb30215c991b413255c17ab2ff67759c3dd835eb9caab005",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/mara_04.wav",
+      "rate": 22050,
+      "frames": 383934,
+      "channels": 1,
+      "sha256": "b647e172b8751f23b931ded62dd7f65fb9b097bb4e61867882c99f9f7f777f59",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/mara_dam_crown.wav",
+      "rate": 22050,
+      "frames": 306213,
+      "channels": 1,
+      "sha256": "860403290c0160a42db2657fe2dc64e1235f2d1c6a24232918e98daa3ce562a1",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/mara_finish.wav",
+      "rate": 22050,
+      "frames": 200512,
+      "channels": 1,
+      "sha256": "36247af13f6da1488be7524fbccce9badeed2384f1ddf2bba39a0a6c1758b15b",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/mara_spillway.wav",
+      "rate": 22050,
+      "frames": 232357,
+      "channels": 1,
+      "sha256": "07b69babe37a71ef1c4fd7d788dda67de0ad9b74c645bd5be3573df33acd121f",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/mara_uplink_extended.wav",
+      "rate": 22050,
+      "frames": 179228,
+      "channels": 1,
+      "sha256": "9d7887d71a7ccaaa250f8be24365db05677e4a83f358f1745810439f49893ccc",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/build_place_00.wav",
+      "rate": 48000,
+      "frames": 16320,
+      "channels": 1,
+      "sha256": "8f4f8b02f4b57c5bb9195a5c0ca0c32e658f2ad4eb4a9d4c53a6ba8c1aea3556",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/build_place_01.wav",
+      "rate": 48000,
+      "frames": 16320,
+      "channels": 1,
+      "sha256": "480a4841b570c6e5a24f98f22fe52f55b4714e7e7b1e574f165f7f69b4d41333",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/build_place_02.wav",
+      "rate": 48000,
+      "frames": 16320,
+      "channels": 1,
+      "sha256": "608cf6ef90d6d3eb66f343932e5988a456109e0f3ea2f9e43d83c43ba49d7087",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/katana_shield_00.wav",
+      "rate": 48000,
+      "frames": 187200,
+      "channels": 1,
+      "sha256": "a1db33483e5d9ad636df59cba819296368bd52204f5fc560dddad8034cd47b32",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/katana_shield_raise_00.wav",
+      "rate": 48000,
+      "frames": 21600,
+      "channels": 1,
+      "sha256": "a2e4d3e4969474daea457ae77974e2c3c6e7ce8ccfdeb3b1d043bf93341c8191",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/metal_step_00.wav",
+      "rate": 48000,
+      "frames": 10512,
+      "channels": 1,
+      "sha256": "3536a5492758aa36d608c9b6d8d40685afc5ea2811d65d43e18fc856c22cbc1f",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/metal_step_01.wav",
+      "rate": 48000,
+      "frames": 10512,
+      "channels": 1,
+      "sha256": "fa4225873c838f9f95878d72f87ac147a113fbaa6322b027caa9d1ae4bec24d8",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/metal_step_02.wav",
+      "rate": 48000,
+      "frames": 10032,
+      "channels": 1,
+      "sha256": "b9f4a7fe3fedfcebbcc8ea5dcccddf40e94ea25a93fbffa103a8042c3947ebe9",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/metal_step_03.wav",
+      "rate": 48000,
+      "frames": 10032,
+      "channels": 1,
+      "sha256": "662e814b9946e52555dfa3ce65d22c79f3b0ce2bf8c7fffafd9aeef8e4199b2c",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/metal_step_04.wav",
+      "rate": 48000,
+      "frames": 9552,
+      "channels": 1,
+      "sha256": "eea75a9b97c8673467a6c4e3b05c2b44f78aecb974fb1a2d08977770dde312ad",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/metal_step_05.wav",
+      "rate": 48000,
+      "frames": 10032,
+      "channels": 1,
+      "sha256": "48257f982b83196ab6c4381b0222ba135c373cf0f505e979c5643409e51a6b4c",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shaker_drink_00.wav",
+      "rate": 48000,
+      "frames": 105600,
+      "channels": 1,
+      "sha256": "2887e35372bb0cde3713fc4fa2078567b4c2ba555fd9d6ceb6ee7746922bdd1d",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_1911_00.wav",
+      "rate": 48000,
+      "frames": 24000,
+      "channels": 1,
+      "sha256": "4fb81aee9e38e12e23cef0a66912d65102241c758e1c8875f6cfe497e8768d62",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_1911_01.wav",
+      "rate": 48000,
+      "frames": 25920,
+      "channels": 1,
+      "sha256": "d03314472b6820ec3c2b6947a0169d09b1d3afa82fb7bedb0e66da6186a0f0c0",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_akm_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "53aa660a80a8d1c9c723d997f3d6789937603e0e57a72ade26129826b5a70c3b",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_akm_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "7ea7ab68228805ad6c8917caf58bdba6018835d6bce8b447bdd7b3cf8ffd353e",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_awp_00.wav",
+      "rate": 48000,
+      "frames": 37440,
+      "channels": 1,
+      "sha256": "a4f21a9dc6f998e83986a6c054b27537803665d658864542263eb52987327f6a",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_awp_01.wav",
+      "rate": 48000,
+      "frames": 37440,
+      "channels": 1,
+      "sha256": "59765cc810bafdf3270fc67c0d1e692fa383071e8cd38f2113045ebd7549f788",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_cx4_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "215bbf1e0336eb976af2c262a4ae894b57e5be23fa9ff53c53d3cc2f9564ae21",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_cx4_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "5606719b6890569fc8289349e13c97988754421652421074463bc24210c70a5f",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_dt11_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "5c13d50133ff3e462a6e8f12ce16931ba311d9eea3ae10077bdf636144b6456d",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_fal_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "f528fa744762ed6375c93ae598becda129527530bf82b399f8c313e8a553f15a",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_fal_01.wav",
+      "rate": 48000,
+      "frames": 23040,
+      "channels": 1,
+      "sha256": "2f1d2cc6f760df1ba5cf21481e94d5f80a382e9ec3a43da2b78f7c6237d216ab",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_m1014_00.wav",
+      "rate": 48000,
+      "frames": 16800,
+      "channels": 1,
+      "sha256": "a267e5b0b212e601bb52e06f7bb8ed17cf00ed6d6bebc2dd6866ee1fde79338d",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_m1014_01.wav",
+      "rate": 48000,
+      "frames": 16320,
+      "channels": 1,
+      "sha256": "8532bda023b7831cfbbdf9abd5934f1372d6ac0ff6b1c95e027e3b59575aa374",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_m60_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "91605d2ec4f3f87ff86f6619b4d480abd2bac395fee77d792d02ad5c538dde73",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_m60_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "3cf56e1d77e986718a820f4bb23ef92ec086f254dc1b06bf84345b01f6e2592e",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_magnum_00.wav",
+      "rate": 48000,
+      "frames": 31200,
+      "channels": 1,
+      "sha256": "99f79a6be3ac4b6835c2ff6d1f021a480dc640274d07ab8e2e49379a55080c8b",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_magnum_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "2e37bfdc860dd4b162fdec1fe876670c6b090200c5f3703d979f46f9c7867e34",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_matadors_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "eca4c11c98a142d6532f308a9a1de2188eff55ece257fb73801f4fcfddcb878d",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_matadors_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "11c9886b3ae2dcd12ae38ba9a44be78d983c4a04fa8f1d6d9c1512ce8b156216",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_mk18_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "b3bca761f8ed35cb3bcb4eb269c086384f7acd2d54999217e83f7ba8b125b956",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_mp5_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "bf689ce22a74779418c333d394d9d4d8392e7bce2287cbe459d916ce39bbc674",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_mp5_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "ac6b50aa422f606acfb5d830d5b3c12ba0aa9aaec75b8e9c918f892eed0c29af",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_mp9_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "2ae5639b579e88e59e7af32a271a65d635c04b23830d2bfdda33a9223b3300db",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_mp9_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "e5ed41ed1385fa067ebf33bc62c6951ef05abb96d80de620ce08385162b849ff",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_p90_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "28d7f2ae225cd681ff8ebd2e0241883f4d97ee42addebfa89a1390e0e1264b01",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_p90_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "4c8e1d22066f681c1712bfc412d83f9b29b6130961fb3bb3f6fef6f2dbd21110",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_px4_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "e59a510d55f80369636e748173a516e9539dc67e8066d6264bcb6529b0a563cf",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_px4_01.wav",
+      "rate": 48000,
+      "frames": 25920,
+      "channels": 1,
+      "sha256": "0317753d48b4a7f4ad66ea98f8074982765f4f25ac4b271df2567d44d087505c",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_rfb_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "343f40073f3e0c238dcd4ea7cabab8e3217ef8db2af5111c67a55b7d949f1b95",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_rfb_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "1f2e2dfcbebbb35d8d5c96dd2f3be0659742fc55b1be17754789ce5c723e74d1",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_smaw_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "b12f753a7691bb592b88ab0ca6e1e6f16bcdd603ba2ec21c9188e41da8f426f7",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_spr_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "a4034599938ab48f01d09f79d6c26a2290d488af7c88ccca549f774529c27b82",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_spr_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "ad830c2b05213802e70dd2e56879d31c86fb8f7af39f8bc15ba8f25b2e961369",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_tec9_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "d4c85bce814833a72a386edc85c628aa8203bfe3b269ed741e09f17aa8570cee",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_tec9_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "bb6bc8e16e86284122af6ed2c1a0bc03ca1d41ea2df38ee18fca7070c52931f6",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_ump_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "a2b348e9af25fb9c453661f882c6d22f8a096b9dd0a69e78a5692eb5095cbd06",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_ump_01.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "07ad22467187f7b1609333c8cd3f046e815fa7feb5eb2891a71ca6644cc68bf4",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/shot_uzis_00.wav",
+      "rate": 48000,
+      "frames": 14400,
+      "channels": 1,
+      "sha256": "4eaa3ed9f8db8ef5b51ebd04fb35f0301a263f3b205ca358c856b6a19998cbee",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/uzi_flick_reload_00.wav",
+      "rate": 48000,
+      "frames": 32784,
+      "channels": 1,
+      "sha256": "e745e971b81e1b08e834552c1867c60d86004f311e286e5e5d288d68007270a7",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference096/uzi_flick_reload_01.wav",
+      "rate": 48000,
+      "frames": 31824,
+      "channels": 1,
+      "sha256": "3ce5ce28b04ba662e2f290189d904acfa0e534a280c0a1645865985123e083ba",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/fal_bolt_00.wav",
+      "rate": 48000,
+      "frames": 14640,
+      "channels": 1,
+      "sha256": "f93ebc771f0753d7fcabc87ea8abd06912adb926b4acd965f4f2d638e764702b",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/fal_mag_insert_00.wav",
+      "rate": 48000,
+      "frames": 13680,
+      "channels": 1,
+      "sha256": "fa3adc96fcd36682cae497576b178688c6ce5547bfe51e4d4f8926f83a7cd5b2",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/katana_shield_sustain_00.wav",
+      "rate": 48000,
+      "frames": 415200,
+      "channels": 1,
+      "sha256": "23e7a41a17549a8b7b56a92931ce983c275b60f05b85256cf7e2c4cc78769323",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shaker_open_00.wav",
+      "rate": 48000,
+      "frames": 16080,
+      "channels": 1,
+      "sha256": "735179df69b70b099b280a82c01b66ee57c38cc05f546857d0fdc188fb078407",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_1911_last_00.wav",
+      "rate": 48000,
+      "frames": 46656,
+      "channels": 1,
+      "sha256": "2e3975784582e3c593cd76c104452753442683d79ede7163258bd51422c7680c",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_akm_last_00.wav",
+      "rate": 48000,
+      "frames": 46656,
+      "channels": 1,
+      "sha256": "acffb7913573a2248af2221d1c6bf03872c6d0caf130376e0e162fe47c2f976e",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_awp_last_00.wav",
+      "rate": 48000,
+      "frames": 44256,
+      "channels": 1,
+      "sha256": "f27ca192abaf9ae1d9b0d1f6bbfa86be8adf594e01b9c52198f283d1d15eb2be",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_cx4_last_00.wav",
+      "rate": 48000,
+      "frames": 46656,
+      "channels": 1,
+      "sha256": "e375af9f3517b46bcba81e7e42f96ec9a8127a21b050f1a05796751db085a26b",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_dt11_last_00.wav",
+      "rate": 48000,
+      "frames": 32256,
+      "channels": 1,
+      "sha256": "2ca7c14d551602c670302a4eeaedb5fb598db402d1a230cf2b178dd144c5a017",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_fal_last_00.wav",
+      "rate": 48000,
+      "frames": 51456,
+      "channels": 1,
+      "sha256": "b17de8bbc5060dc7b71bdc36899b48893876926a2aec59c31c6d7a43014f6978",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_m1014_last_00.wav",
+      "rate": 48000,
+      "frames": 27456,
+      "channels": 1,
+      "sha256": "38f19b887cdb216de87422265c696a1d146e44b34e1c87dcfe2c2fdaab09cc42",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_m60_last_00.wav",
+      "rate": 48000,
+      "frames": 56256,
+      "channels": 1,
+      "sha256": "02b12d12dc68c9bfd76f9f5993fcc7becfd2ae27e3170ecdfb3847a844873fd9",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_magnum_last_00.wav",
+      "rate": 48000,
+      "frames": 29856,
+      "channels": 1,
+      "sha256": "fdd6199e29d02bf33353ac2e7334bfe6c4533e84934db2f4cf6c1b840f3d8104",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_matadors_last_00.wav",
+      "rate": 48000,
+      "frames": 51456,
+      "channels": 1,
+      "sha256": "f784113cdd3ea418f28fecbbcac7028ac95a3ae8b2a14e815d38b41d8fb3cf88",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_mk18_last_00.wav",
+      "rate": 48000,
+      "frames": 46656,
+      "channels": 1,
+      "sha256": "cd938254491d0d4d8afe4ede409178980f061e78c9d9c5c3fe4c372515148a1b",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_mp5_last_00.wav",
+      "rate": 48000,
+      "frames": 53856,
+      "channels": 1,
+      "sha256": "4e23cf3ecf16f1be5e2bd6569a2f4a3754ee4ad54748a8f73dded1bbf69cf38f",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_mp9_last_00.wav",
+      "rate": 48000,
+      "frames": 53856,
+      "channels": 1,
+      "sha256": "9ff0b8bec5e16eaf2b8447aba04eb2886434c27e7651e8011f9680b7f5fbb209",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_p90_last_00.wav",
+      "rate": 48000,
+      "frames": 53856,
+      "channels": 1,
+      "sha256": "d401fcb71a91ac5a82e02739eb87da48dde2034706b5f2a3ea3b67ee74a594fd",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_px4_last_00.wav",
+      "rate": 48000,
+      "frames": 44256,
+      "channels": 1,
+      "sha256": "6995440c7f12f9e5823b3efbbe58223cde7a4cca568dd50aa70d7cc675e3bc9a",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_rfb_last_00.wav",
+      "rate": 48000,
+      "frames": 46656,
+      "channels": 1,
+      "sha256": "fc6ba9edfd30aed19d55d2ba96210dafcae5a523d144ba9bdc6bb9eb9c2ded5b",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_spr_last_00.wav",
+      "rate": 48000,
+      "frames": 58656,
+      "channels": 1,
+      "sha256": "ce9e42d6712e5ce21d579aeb65adfdcb570a3a22bc45a7ca9862464690baa513",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_tec9_last_00.wav",
+      "rate": 48000,
+      "frames": 39456,
+      "channels": 1,
+      "sha256": "d8226c66f85ed0a65004a11819aaa5a7b74690a7b9aed0d03350fa04ae70df58",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_ump_last_00.wav",
+      "rate": 48000,
+      "frames": 46656,
+      "channels": 1,
+      "sha256": "24ce9261edaf2b38fa697699396fd92cbe9555ed1da4b1524b4ec82af7be9c3b",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/shot_uzis_last_00.wav",
+      "rate": 48000,
+      "frames": 34656,
+      "channels": 1,
+      "sha256": "7bb192693c9b5a19f9ff1ac83f7c0e47ba453b9ed21ea83a7a6e00e7fc551d10",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/soda_drink_00.wav",
+      "rate": 48000,
+      "frames": 102960,
+      "channels": 1,
+      "sha256": "d6bc46c98ce67565c94d3772941d7cff9079cb4ab88bbe61eff861cb0dfa1a9a",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/soda_open_00.wav",
+      "rate": 48000,
+      "frames": 25200,
+      "channels": 1,
+      "sha256": "53ed9b62bd29ea23de391c9d273eaf651bf8b50aa1baa219e8b47beb9a116314",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference097/spr_bolt_00.wav",
+      "rate": 48000,
+      "frames": 14160,
+      "channels": 1,
+      "sha256": "aebf462126223bcc69a35ead12ebea28d9023ad509d4fb40ff10ccdbf1fc6c2d",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/akm_bolt_00.wav",
+      "rate": 48000,
+      "frames": 34560,
+      "channels": 1,
+      "sha256": "0270cf3cb984c30e85662b45da5166329f0d5f0c65f3e719ac5092fd2a74f6f5",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/akm_bolt_01.wav",
+      "rate": 48000,
+      "frames": 32640,
+      "channels": 1,
+      "sha256": "a2106532d43a42360137bd54c5ad25d50feef9c5b129a2200e78a953fbfda106",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/akm_mag_insert_00.wav",
+      "rate": 48000,
+      "frames": 19920,
+      "channels": 1,
+      "sha256": "05f625814c7eb34c6dc6b020c6346ca7465202ca154b5e8ccd6bf8f22fb804c9",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/akm_mag_insert_01.wav",
+      "rate": 48000,
+      "frames": 19680,
+      "channels": 1,
+      "sha256": "b7b34d0ee43359e6fbfba78581be267cfd33bc07ca7bfaffe072cb9f132c6db3",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/awp_bolt_00.wav",
+      "rate": 48000,
+      "frames": 69120,
+      "channels": 1,
+      "sha256": "09f545c7f07e42f3c952faad58ee5c8497d484534067d407fdf0b73b5e5dff3a",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/cx4_bolt_00.wav",
+      "rate": 48000,
+      "frames": 40800,
+      "channels": 1,
+      "sha256": "49aa4c969bfb0edbfa2fa36490c08194dcec10084a37c717ffbe378a8e6fbe2e",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/cx4_mag_insert_00.wav",
+      "rate": 48000,
+      "frames": 24480,
+      "channels": 1,
+      "sha256": "50f1271d282b9363b2078df5da8f44592dd4c130724bf04867ffa2ad63a72658",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_awp_shot_00.wav",
+      "rate": 48000,
+      "frames": 197040,
+      "channels": 1,
+      "sha256": "05a086a9178b74893e21898396ff371378ce4f38116ab189321e7db2b6542994",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_banana_consume_open_00.wav",
+      "rate": 48000,
+      "frames": 24000,
+      "channels": 1,
+      "sha256": "a178df10b2542e50fcbb9dbc0304d20341b857a6b6916729b247d13251135510",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_build_lightning_00.wav",
+      "rate": 48000,
+      "frames": 141600,
+      "channels": 1,
+      "sha256": "a258c3d865c83302dabb04dd8edb3e9d1a6a39b2670e270dd002692dc2f1f166",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_build_place_00.wav",
+      "rate": 48000,
+      "frames": 46080,
+      "channels": 1,
+      "sha256": "c157d96ac4940bfd78047a9f9494b41b9982468bb4b632c43a75a97436170f5b",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_build_place_01.wav",
+      "rate": 48000,
+      "frames": 42720,
+      "channels": 1,
+      "sha256": "380ab19c9fb9cc21317828ec21647eff98cb26a433ec21b7e0f080e283d2a5be",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_concrete_run_step_00.wav",
+      "rate": 48000,
+      "frames": 12480,
+      "channels": 1,
+      "sha256": "1de6614c3d1bbee25d50e7f3dddedd982eb511a28fbf80a50d0221ae72d316ba",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_concrete_run_step_01.wav",
+      "rate": 48000,
+      "frames": 12480,
+      "channels": 1,
+      "sha256": "ce180da475eeb1e3bf0f552652a5b70ad08cbfe00f04bc903dd1ec73f5458b9d",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_concrete_run_step_02.wav",
+      "rate": 48000,
+      "frames": 12480,
+      "channels": 1,
+      "sha256": "d404ae5519feb68229dd35a7907ca86c7641a030f09622b0bbad3e3fd300dc03",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_concrete_step_00.wav",
+      "rate": 48000,
+      "frames": 13920,
+      "channels": 1,
+      "sha256": "a56a2464c8236df6e745a6b216d88b22c8014a25f02116232c3ae5abb461054e",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_concrete_step_01.wav",
+      "rate": 48000,
+      "frames": 12480,
+      "channels": 1,
+      "sha256": "5c1cabc0b3d2803b653a3236e48bd79d44cdf4ea7799c14c48917e51ce0cf4e2",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_cyberblade_shield_sustain_00.wav",
+      "rate": 48000,
+      "frames": 472800,
+      "channels": 1,
+      "sha256": "645381f60b5c0367f6645d645dcae954cdbd5e36d10a4bfae334e5fe5bb9bc97",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_frag_blast_00.wav",
+      "rate": 48000,
+      "frames": 145920,
+      "channels": 1,
+      "sha256": "089408bb498128ae07b0cf97ac8d3adca08137d6b7dc9f01d4435cbdbdc60207",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_game_start_music_00.wav",
+      "rate": 48000,
+      "frames": 290400,
+      "channels": 2,
+      "sha256": "2128189919f4e5a71f52be04e0e4573aaa5f7c474b27efc63a24ec228bf758b2",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_glide_00.wav",
+      "rate": 48000,
+      "frames": 58380,
+      "channels": 1,
+      "sha256": "960b54f08acf555c22d09dc9eda2fa682ffe0e232899d7f8a7651aee201e6a65",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_grenade_throw_00.wav",
+      "rate": 48000,
+      "frames": 18000,
+      "channels": 1,
+      "sha256": "59ca4a2ea74129e876b129930c8a8cb01a1caf2c222b3f040065e47a4b47f644",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_harmonica_00.wav",
+      "rate": 48000,
+      "frames": 51840,
+      "channels": 1,
+      "sha256": "4d630c56f2e922aade3216f0ef580ce1c20144d4e90e3cc67548d42e7bb6e8a9",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_harmonica_01.wav",
+      "rate": 48000,
+      "frames": 43200,
+      "channels": 1,
+      "sha256": "072c1b43a7d5469c187d7facbfa5977b841167239a64758e406a66ab794368e9",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_harmonica_02.wav",
+      "rate": 48000,
+      "frames": 84000,
+      "channels": 1,
+      "sha256": "073542dfc2808a14de42130069aa1db4fd950157581bc858d42c29544af76c06",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_item_highlight_00.wav",
+      "rate": 48000,
+      "frames": 11040,
+      "channels": 1,
+      "sha256": "8a03f969c60056f79f55237a5daa480368729ac00f1faac3248eafa107c682c3",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_item_pickup_00.wav",
+      "rate": 48000,
+      "frames": 32640,
+      "channels": 1,
+      "sha256": "699df07da897c13dc775cc2eabb137f8ae80cd1d137cfb889ad657cac55ffe29",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_menu_click_00.wav",
+      "rate": 48000,
+      "frames": 28704,
+      "channels": 1,
+      "sha256": "5668b31f0b44e1d684fd68f18e44be521aefbaea48c618c9833aa00a2e75c653",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_menu_hover_00.wav",
+      "rate": 48000,
+      "frames": 8400,
+      "channels": 1,
+      "sha256": "9788539396bbdb316c839f34bf9f818a98e042cb07f095690cfed0bb1a05908c",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_revive_charge_00.wav",
+      "rate": 48000,
+      "frames": 11040,
+      "channels": 1,
+      "sha256": "38deab12763d74fa71837f8a2366ba78bb1769b4726dd520d81e27a1467ba346",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_revive_charge_01.wav",
+      "rate": 48000,
+      "frames": 11040,
+      "channels": 1,
+      "sha256": "19f2c8bbcfed26a8fcafb586c7cc330a79459654610946c0ca66f0e8b2630acc",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_revive_charge_02.wav",
+      "rate": 48000,
+      "frames": 11040,
+      "channels": 1,
+      "sha256": "24d125e98f630d3c75951536711511ca2f8d8d00532c6fab4ce221bdcde37ab9",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_revive_discharge_00.wav",
+      "rate": 48000,
+      "frames": 29280,
+      "channels": 1,
+      "sha256": "493922b8a41d26b1ed45e8723f976106c86d3e6062b6d501a6d17a8c0c63cdff",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_revive_facing_00.wav",
+      "rate": 48000,
+      "frames": 88800,
+      "channels": 1,
+      "sha256": "2f1081cb72dd7cb4b8958eacc5fdac2e7a35bd224f48ab8d0532876bd58c102a",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_revive_ready_00.wav",
+      "rate": 48000,
+      "frames": 93600,
+      "channels": 1,
+      "sha256": "64144d60e329fca24494fac6f8384a1fec9a2a70efe8bef67ba25ee41501fc85",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_s85_bolt_00.wav",
+      "rate": 48000,
+      "frames": 31200,
+      "channels": 1,
+      "sha256": "a67839d648e9090f423b3850942e196f81d33537192e6088ab4c21f400ecb053",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_s85_mag_insert_00.wav",
+      "rate": 48000,
+      "frames": 26880,
+      "channels": 1,
+      "sha256": "b0915e46ceba3c7728537c0ddbb2e42f9b3bf6b73209bcaf55b54e27dfc3b6d3",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_s85_pouch_00.wav",
+      "rate": 48000,
+      "frames": 29760,
+      "channels": 1,
+      "sha256": "6d572bbae975dbcd49a43532321c12f88bf53cd98e7c62b65aaa34b9d7cb31df",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_s85_shot_00.wav",
+      "rate": 48000,
+      "frames": 157440,
+      "channels": 1,
+      "sha256": "1be29cd98b3c9133c598fa2e40cc48ae6a20a4f7b21ed8a8c1bb5c46cd2d13c7",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_shaker_consume_drink_00.wav",
+      "rate": 48000,
+      "frames": 59040,
+      "channels": 1,
+      "sha256": "5ede8a0a1ad6812b764a6e42900e2cd561171abdecaa2f1498ede51bffe2cd02",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_shaker_consume_ready_00.wav",
+      "rate": 48000,
+      "frames": 32160,
+      "channels": 1,
+      "sha256": "4873263b55efee2d346ebdba4cf0371db5ad963474a344d1a76a7d82435de7fc",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_shaker_consume_shake_00.wav",
+      "rate": 48000,
+      "frames": 17280,
+      "channels": 1,
+      "sha256": "5bcdb6d90b80fa2d24548e0f975c4668dc173be16ce042e47e84ddf1a50761ab",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_shaker_consume_shake_01.wav",
+      "rate": 48000,
+      "frames": 17280,
+      "channels": 1,
+      "sha256": "8544198fb835051f6de2d316655bf34887503d20ee692475dc5229f3e30fd856",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_soda_consume_drink_00.wav",
+      "rate": 48000,
+      "frames": 87360,
+      "channels": 1,
+      "sha256": "d00428297d6ccf82984adc6c8fe67e814dd38974528eeaadbc07a915eae9a90b",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_soda_consume_open_00.wav",
+      "rate": 48000,
+      "frames": 28320,
+      "channels": 1,
+      "sha256": "da9762d338bbe7f943c470ee474094b994f2ca119d527f0b3d8bfb8212c0d805",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_spr_bolt_00.wav",
+      "rate": 48000,
+      "frames": 32640,
+      "channels": 1,
+      "sha256": "ca61d8a51515648f167919392aed9cac821465641bcd6ecddbd90d9cb5fa6e72",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_spr_mag_eject_00.wav",
+      "rate": 48000,
+      "frames": 29280,
+      "channels": 1,
+      "sha256": "1b69f3c47607ade222b038c7164d29f85ae3669c92ad455004e0dcd53598415a",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_spr_mag_insert_00.wav",
+      "rate": 48000,
+      "frames": 24960,
+      "channels": 1,
+      "sha256": "84a92698a5a138a7d1900dd0b9c28366b4c877a289fa243e1b18cab920a0c7bc",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_spr_shot_00.wav",
+      "rate": 48000,
+      "frames": 143520,
+      "channels": 1,
+      "sha256": "1401dc2ad03e794e36a77d4241978d6f282ba9533f9a93aa584817e9da4489e1",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_sword_swing_00.wav",
+      "rate": 48000,
+      "frames": 30720,
+      "channels": 1,
+      "sha256": "9a49f0fafae536cf66cc6821a88ecf609a5b464c7c119b0684882b694178b692",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_sword_swing_01.wav",
+      "rate": 48000,
+      "frames": 27360,
+      "channels": 1,
+      "sha256": "745773a85a148c00560e85e035a95b4980a274fa6c4808f755d3ab570d1d3a53",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_sword_swing_02.wav",
+      "rate": 48000,
+      "frames": 26400,
+      "channels": 1,
+      "sha256": "d310c66170db19c712200f4a4b7ea98b0db2e4393d1212c3c4adf9ee65ee2540",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_vr_initialize_00.wav",
+      "rate": 48000,
+      "frames": 129600,
+      "channels": 2,
+      "sha256": "ab255ee680445817e289470c1dd9cc043394715d8105ad3295e773fe53234e35",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/isolated_zone_bloom_00.wav",
+      "rate": 48000,
+      "frames": 164160,
+      "channels": 1,
+      "sha256": "aeaa2c8962bb114b731fbe836640edeb9b16b760a2536ea5fa589ad64a542ca5",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference099/spr_bolt_00.wav",
+      "rate": 48000,
+      "frames": 32160,
+      "channels": 1,
+      "sha256": "52a5b4f6c03f8242eee7f00d63ad5355d45c21f1b760ce79dec18edafe3cc7f3",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference0991/flight_continuous0991.wav",
+      "rate": 48000,
+      "frames": 768000,
+      "channels": 1,
+      "sha256": "34e4d2ccf157caa5e0deeebe7a3c1576a634a836456076807220db09531a0f94",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference0992/revive_ready_full0992.wav",
+      "rate": 48000,
+      "frames": 172800,
+      "channels": 1,
+      "sha256": "21148ec8b865738ba62c0554ee65cb34318bbcc9ab95fb02cb338506420fb537",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference0992/shaker_full0992.wav",
+      "rate": 48000,
+      "frames": 156480,
+      "channels": 1,
+      "sha256": "1b2c831cf77156fbea315d5d985a477e8aae4bfd54fd2b65281f0eab87105e15",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference0992/shot_mp5_verified0992.wav",
+      "rate": 48000,
+      "frames": 78960,
+      "channels": 1,
+      "sha256": "dff37c7f5aee52500648cc203da43dab9ba0aad7160c71fb7dd2285398311bb6",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference0992/shot_mp9_verified0992.wav",
+      "rate": 48000,
+      "frames": 72240,
+      "channels": 1,
+      "sha256": "842848a1f01e2235230f983a8bc36ea9278a5759d7b6e6deb5cd78b0ed26a282",
+      "origin": "New original procedural sound; no source PCM read"
+    },
+    {
+      "path": "assets/audio/reference0992/weapon_swap_ui0992.wav",
+      "rate": 48000,
+      "frames": 11760,
+      "channels": 1,
+      "sha256": "4f093bd2f9324ffb8711380632dc38d52f71d0017c6a36007ae2cd33abc46563",
+      "origin": "New original procedural sound; no source PCM read"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+M4 Rifle by Charlie Baldwin (https://sketchfab.com/charlieatron)
+https://sketchfab.com/3d-models/m4-rifle-5029ec1a279e4834be88d5c46dae0515
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: Latest explicit user request: new m4_rifle as SEMIAUTOMATIC SPR with game rectangular2x binocular-correct scope above rail. Source magazine and rear charging handle separated. Existing SPR recovery, cadence, capacity10 and magazineUP/handleBACK reload retained. Not a bolt-action conversion.
+Explicit omissions: none

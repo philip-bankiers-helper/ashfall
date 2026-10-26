@@ -1,0 +1,1 @@
+Four models from Poly Haven, CC0 1.0 Universal. See PROVENANCE.json for per-asset creators and source pages. License: https://polyhaven.com/license and https://creativecommons.org/publicdomain/zero/1.0/. Source glTF and textures preserved; game glTF files select single variants without reducing original geometry.

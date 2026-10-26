@@ -1,0 +1,18 @@
+ASHFALL environment materials and architectural geometry
+Original procedural content generated for this project, 2026-10-18.
+THIRD-PARTY TEXTURES: ambientCG by Lennart Demes, CC0 1.0 Universal.
+Downloaded 2026-10-18 from official ambientcg.com endpoints:
+https://ambientcg.com/view?id=Concrete034
+https://ambientcg.com/get?file=Concrete034_1K-JPG.zip
+https://ambientcg.com/view?id=MetalPlates006
+https://ambientcg.com/get?file=MetalPlates006_1K-JPG.zip
+https://ambientcg.com/view?id=Rock030
+https://ambientcg.com/get?file=Rock030_1K-JPG.zip
+License: https://docs.ambientcg.com/license/
+License legal text: https://creativecommons.org/publicdomain/zero/1.0/
+Official license page saved as ambientCG-license.html.
+Color, OpenGL normal, roughness, and optional metallic maps used at 1K resolution.
+Unneeded Blender and interchange scene files removed; original archives retained.
+Other materials and mountain/architectural meshes are original procedural content.
+
+2026-10-18 upgrade: corresponding Concrete034, MetalPlates006, Rock030 2K-JPG packs downloaded from same official ambientCG get endpoint; color/OpenGL normal/roughness/metalness files selected. Source ZIP archives staged under tools/texture-staging outside project. Existing1K assets retained.

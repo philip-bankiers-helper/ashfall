@@ -1,0 +1,6 @@
+12 Gauge Double Barrel Shotgun [Custom] by SchrisArt (https://sketchfab.com/SchrisArt)
+https://sketchfab.com/3d-models/12-gauge-double-barrel-shotgun-custom-1e03c51ebc454aeba36ba1c575cff067
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: uniform gameplay fit; connected magazine and selected slide/bolt parts separated for physical reload. Original retained outside package. Lightweight authored fallback preserved.
+Integration: Downloaded stock/receiver and separate break-barrel cluster on original hinge. Functional shell visuals/chamber markers fitted to narrower source bores, same two-shell down/up mechanism, timing and firing ray. Existing support/close hand marker and authored contoured fore-end retained.
+Explicit omissions: Source242-triangle fore-end replaced by retained authored contoured fore-end at existing support/closing hand datum, with a visual bridge to fitted narrower barrels. Original source retained.
