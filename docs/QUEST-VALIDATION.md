@@ -1,4 +1,4 @@
-# Quest 3 validation — 2026-10-27
+# Quest 3 validation
 
 The port preserves the original 925 asset files, all 180 gameplay scripts and the
 OpenXR action map byte-for-byte against commit
@@ -24,17 +24,24 @@ The first cold load reached the XR session after about 45 seconds. It remained
 running for several minutes with no Godot error lines. Boundary and normal
 proximity sensing remained enabled.
 
-## Still requires a person wearing the headset
+## Physical playtest — 2026-10-28
 
-The headset was unworn; captures were black and the controllers were inactive.
-Rendered-menu visibility, controller pointing/selection, locomotion, firing,
-reloading, all-map play, audio, comfort and sustained in-game performance are
-**not verified**. Runtime frame callbacks while unworn do not establish playable
-frame rate. Internet multiplayer and cross-platform sessions are also untested.
+The first installation check on October 27 was unworn, with black captures and
+inactive controllers. During the guided wearing test on October 28, the user
+reported: "yes it worked and i could go in and see the map, gun shooting and
+reloading worked too".
 
-First wearing check: wake both controllers, view the Ashfall menu, point at a
-button and squeeze/release the trigger. Then enter a map, move, fire and reload.
-Test the other maps and a second-player session before inviting friends.
+Map entry, visible gameplay, firing and reloading are now **human-confirmed**.
+The running app's telemetry also recorded about 112 seconds with both controllers
+ready while XR was focused. No Godot errors were found in the retained app log
+at that checkpoint. Telemetry supports controller tracking; the user's report is
+the evidence for successful firing and reloading.
+
+The specific map and weapon, movement/turning response, explicit menu-selection
+checks, other maps and weapons, audio, comfort and sustained in-game performance
+remain to be checked. Internet multiplayer and cross-platform sessions are also
+untested. Runtime frame callbacks while unworn do not establish playable frame
+rate.
 
 ## Host/build checks
 
@@ -45,5 +52,6 @@ Setup was tested on a fresh temporary tree and an identical second run; a
 modified template was refused and preserved. Negative artifact checks cover
 missing/empty loader, wrong ABI, missing scripts/targets and wrong launch flags.
 
-Build receipts deliberately keep `headset_verified=false`; installation and XR
-startup evidence do not substitute for the physical checks above.
+Build receipts deliberately keep `headset_verified=false`: the build runner
+cannot perform a physical test. The later human-confirmed results above are
+recorded separately from those build-time receipts.
