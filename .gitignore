@@ -15,6 +15,12 @@ dist/
 *.skse
 *.ess
 *.log
+android/
+addons/godotopenxrvendors/
+.gradle/
+export_credentials.cfg
+*.keystore
+*.jks
 __pycache__/
 release-profile/
 server-profile/

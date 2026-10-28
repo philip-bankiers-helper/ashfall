@@ -3,6 +3,7 @@ config_version=5
 [application]
 config/name="ASHFALL - The Last Relay"
 config/version="1.0.0.0"
+config/icon="res://assets/ui/ashfall-icon.png"
 run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.7", "Mobile")
 config/use_custom_user_dir=true
@@ -22,6 +23,7 @@ textures/default_filters/use_nearest_mipmap_filter=false
 anti_aliasing/quality/msaa_3d=2
 lights_and_shadows/directional_shadow/size=2048
 textures/default_filters/anisotropic_filtering_level=2
+textures/vram_compression/import_etc2_astc=true
 
 [xr]
 openxr/enabled=true

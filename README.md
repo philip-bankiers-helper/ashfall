@@ -18,6 +18,13 @@ Read [INSTALL.md](INSTALL.md) for setup and troubleshooting and [docs/HOSTING.md
 for a friends lobby. Everybody in a lobby needs the same public release. Public
 and earlier private builds deliberately have different content fingerprints.
 
+## Quest 3 development preview
+
+This branch adds a full-content standalone Quest 3 Android export.
+See [docs/QUEST.md](docs/QUEST.md) for the pinned toolchain, local dependency
+setup and build command. Headset validation results and remaining checks are
+recorded in [docs/QUEST-VALIDATION.md](docs/QUEST-VALIDATION.md).
+
 ## Source and assets
 
 Original code is **Apache-2.0**. Third-party art keeps its existing license.
