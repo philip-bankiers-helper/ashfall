@@ -31,14 +31,17 @@ inactive controllers. During the guided wearing test on October 28, the user
 reported: "yes it worked and i could go in and see the map, gun shooting and
 reloading worked too".
 
-Map entry, visible gameplay, firing and reloading are now **human-confirmed**.
+The user identified the tested map as **Cyber Bird** and confirmed that left-stick
+movement and right-stick turning both work and stop correctly when released.
+Cyber Bird entry, visible gameplay, firing, reloading, movement and turning are
+now **human-confirmed**.
 The running app's telemetry also recorded about 112 seconds with both controllers
 ready while XR was focused. No Godot errors were found in the retained app log
 at that checkpoint. Telemetry supports controller tracking; the user's report is
 the evidence for successful firing and reloading.
 
-The specific map and weapon, movement/turning response, explicit menu-selection
-checks, other maps and weapons, audio, comfort and sustained in-game performance
+The specific weapon, weapon switching, explicit menu-selection checks, the other
+maps and weapons, audio, comfort and sustained in-game performance
 remain to be checked. Internet multiplayer and cross-platform sessions are also
 untested. Runtime frame callbacks while unworn do not establish playable frame
 rate.
