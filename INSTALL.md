@@ -1,13 +1,30 @@
 # Install and run ASHFALL
 
+Windows PC VR and the Quest 3 sideload are different downloads. Use the section
+that matches the headset you are starting.
+
+## Quest 3 standalone preview
+
+This is not inside **ASHFALL-Windows-x64.zip**. Download **ASHFALL-Quest-Preview.apk**
+from the [Quest preview release](https://github.com/philip-bankiers-helper/ashfall/releases/tag/v0.1.0-quest-preview.1). It is a debug-signed
+development preview, package `dev.philipbankier.ashfallquest`, title
+**ASHFALL Quest Preview**. Sideload steps, the checksum, and the playtest list
+are in [docs/QUEST-INSTALL.md](docs/QUEST-INSTALL.md). Build notes are in
+[docs/QUEST.md](docs/QUEST.md). Worn-headset results are in
+[docs/QUEST-VALIDATION.md](docs/QUEST-VALIDATION.md). After that APK is installed,
+the headset runs it alone: no USB, no PC, and no Link or Air Link. It is not a
+store build and it is not production-ready. Quest Internet multiplayer was not
+tested.
+
 ## Windows PC
 
-Download **ASHFALL-Windows-x64.zip** from this repository's Releases and extract it.
+Download **ASHFALL-Windows-x64.zip** from the [original Windows release](https://github.com/alingold/ashfall/releases/tag/v0.1.0-preview) and extract it.
 No Python, Git, Godot editor or compiler is needed to play. The executable contains
 the game resources. Leave LICENSE, NOTICE, LICENSES and the launchers beside it.
 An x64 Windows PC, a working graphics driver and sufficient space for the ZIP plus
 its extracted contents are required. A recent gaming GPU is recommended; hardware
-minimums have not been benchmarked. Linux, native Quest and macOS are not packaged.
+minimums have not been benchmarked. Linux and macOS are not packaged. The Quest
+APK is the separate preview above, not a file inside this ZIP.
 
 ## VR
 
